@@ -1,6 +1,6 @@
-# CNN_Cancer_Detection
+# NLP_Disaster_Tweets
 
-DTSA 5511 Mini Project
+DTSA 5511 Week 4 Mini Project
 
 ## Table of Contents
 1. Brief description of the problem and data
@@ -15,4 +15,4 @@ DTSA 5511 Mini Project
 5. Conclusion
 
 ## Dataset
-Histopathologic Cancer Detection: <https://www.kaggle.com/competitions/nlp-getting-started/data>
+Natural Language Processing with Disaster Tweets: <https://www.kaggle.com/competitions/nlp-getting-started/data>
